@@ -1,0 +1,5 @@
+class Config:
+	serverUrl = "https://...."
+	key = "wT"
+	allow_search = True
+	show_info = True
